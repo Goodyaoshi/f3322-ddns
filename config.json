@@ -1,0 +1,9 @@
+{
+    "username": "root",
+    "password": "password",
+    "hostnames": [
+        "a.f3322.net",
+        "b.f3322.net",
+        "c.f3322.net"
+    ]
+}
